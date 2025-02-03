@@ -1,1 +1,3 @@
-# webDevelopment
+# WebDevelopment
+Html/CSS
+JavaScript
